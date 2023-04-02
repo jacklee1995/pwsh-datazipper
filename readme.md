@@ -29,7 +29,7 @@ git clone https://gitee.com/jacklee1995/pwsh-datazipper.git
 使用前需要进入项目根目录下，
 
 ```
-cd pwsh-DataZipper
+cd pwsh-datazipper
 ```
 
 然后，使用git直接将依赖模块安装过来：
@@ -44,9 +44,7 @@ git clone http://thispage.tech:9680/jclee1995/pwsh-utils.git
 git clone https://gitee.com/jacklee1995/pwsh-utils.git
 ```
 
-
 运行 index.ps1 即可。
-
 
 ## 关于配置文件
 
